@@ -1,4 +1,4 @@
 <?php
 
 $awsSecret = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
-$awsKey = "AKIAIOSFODNN7EXAMPLE";
+$awsKey = "AKIA6RK6BA5D5ITRV3WG";
